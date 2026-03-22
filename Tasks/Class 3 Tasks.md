@@ -21,7 +21,7 @@ the second flag was hidden inside the binary file in clear view and found using 
 
 ![[Pasted image 20260321162659.png]]
 ![[Pasted image 20260321162810.png]]
-this is the third flag i found by trying to extract the passphrase from this encrypted file using brute force from rockyou.txt wordlist using cmd stegseek :
+this is the third flag i found by trying to extract the passphrase from this encrypted file using brute force from rockyou.txt wordlist using cmd stegseek , because we couldn't extract it using steghide :
 	FLAG{steghide_protected}
 ![[Pasted image 20260321164256.png]]
 ![[Pasted image 20260322004809.png]]
