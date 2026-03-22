@@ -38,4 +38,4 @@ for key in range(256):
     if 'FLAG' in decoded:
         start = decoded.find('FLAG')
         print(f'Key {hex(key)} found Match: {decoded[start:start+40]}')
-	```
+	

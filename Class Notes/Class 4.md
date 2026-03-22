@@ -76,3 +76,9 @@ Exercise:  -Top 30 common ports and what kind of attacks can they face?
         -OSI model and what kind of attacks happens in each layer?
 		 -Subnetting
 		 -TCP vs UDP
+Exercise :
+CHeck what class the ip is?
+check what the subnet mask is ?
+check whether private and public?
+and finaly check whether it is useable?
+u can use python, java,.... !!!
