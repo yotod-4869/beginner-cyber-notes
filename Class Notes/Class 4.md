@@ -71,3 +71,8 @@
 	- **Function:** Defining electrical, mechanical, and physical specifications (voltage levels, cable types, pinouts).
 	- **Hardware:** Hubs, Repeaters, Cables (Cat5, Fiber), and Network Interface Cards (NICs).
 	- **Data Unit:** Bits.
+
+Exercise:  -Top 30 common ports and what kind of attacks can they face?
+        -OSI model and what kind of attacks happens in each layer?
+		 -Subnetting
+		 -TCP vs UDP
